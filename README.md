@@ -14,10 +14,13 @@
   <a href="#research">Research</a> &nbsp;·&nbsp;
   <a href="#experience">Experience</a> &nbsp;·&nbsp;
   <a href="#talks--recognition">Talks &amp; recognition</a> &nbsp;·&nbsp;
+  <a href="#academic-activities">Photos</a> &nbsp;·&nbsp;
   <a href="#tools--methods">Tools &amp; methods</a>
 </p>
 
 ### About me
+
+<img align="right" src="assets/tingting-qi.jpg" alt="Portrait of Tingting Qi" width="160" />
 
 I study how machine learning and physical knowledge can help recover and predict ocean conditions from incomplete satellite observations. My doctoral research focuses on **sea surface temperature (SST) reconstruction and short-term prediction**, with particular interest in preserving ocean structures under cloud contamination.
 
@@ -91,6 +94,28 @@ South China Sea Institute of Oceanology, CAS · **2024–present**
 - Coordinated research exchange, technical reporting, and project updates for the **2024 Annual Academic Meeting of the Guangdong Provincial Key Laboratory of Ocean Remote Sensing and Big Data**.
 
 </details>
+
+### Academic activities
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="assets/fbas-presentation.jpg"><img src="assets/fbas-presentation.jpg" alt="Research presentation at the 4th International Forum on Big Data for Sustainable Development Goals" width="100%" /></a><br />
+      <strong>Research presentation</strong><br />
+      <sub>4th International Forum on Big Data for Sustainable Development Goals</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="assets/fbas-conference.jpg"><img src="assets/fbas-conference.jpg" alt="Conference photograph at the 4th International Forum on Big Data for Sustainable Development Goals" width="100%" /></a><br />
+      <strong>Conference exchange</strong><br />
+      <sub>4th International Forum on Big Data for Sustainable Development Goals · 2024</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="assets/coastal-forum-2023.jpg"><img src="assets/coastal-forum-2023.jpg" alt="Conference photograph at the First Coastal Zone Remote Sensing Forum and Beautiful Coast Summit" width="100%" /></a><br />
+      <strong>Coastal remote sensing</strong><br />
+      <sub>First Coastal Zone Remote Sensing Forum and Beautiful Coast Summit · 2023</sub>
+    </td>
+  </tr>
+</table>
 
 ### Tools & methods
 
