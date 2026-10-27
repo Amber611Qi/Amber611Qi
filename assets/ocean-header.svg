@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Tingting Qi</title>
+  <desc id="desc">Ocean observations, physical insight, machine learning. An ocean blue banner with layered current contours.</desc>
+  <defs>
+    <linearGradient id="ocean" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#081e33"/>
+      <stop offset="0.6" stop-color="#103e58"/>
+      <stop offset="1" stop-color="#176676"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#ocean)"/>
+    <g fill="none" stroke="#72d4d5" stroke-width="1.4" opacity="0.27">
+      <path d="M690 -30 C510 80 1010 55 810 170 S1090 250 1240 170"/>
+      <path d="M720 -20 C540 90 1040 65 840 180 S1120 260 1270 180"/>
+      <path d="M750 -10 C570 100 1070 75 870 190 S1150 270 1300 190"/>
+      <path d="M780 0 C600 110 1100 85 900 200 S1180 280 1330 200"/>
+      <path d="M810 10 C630 120 1130 95 930 210 S1210 290 1360 210"/>
+      <path d="M840 20 C660 130 1160 105 960 220 S1240 300 1390 220"/>
+      <path d="M870 30 C690 140 1190 115 990 230 S1270 310 1420 230"/>
+    </g>
+    <path d="M0 263 Q160 225 330 268 T680 266 T1000 267 T1280 250 L1280 320 L0 320 Z" fill="#69c9cd" opacity="0.07"/>
+    <rect x="62" y="65" width="40" height="3" rx="1.5" fill="#7de0d4"/>
+    <text x="62" y="134" fill="#f5fbff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="650" letter-spacing="-1">Tingting Qi</text>
+    <text x="65" y="181" fill="#c5e2ea" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21">Ocean observations. Physical insight. Machine learning.</text>
+    <text x="65" y="226" fill="#80c8cf" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2.4">RECONSTRUCTING OCEAN FIELDS FROM INCOMPLETE OBSERVATIONS</text>
+  </g>
+</svg>
